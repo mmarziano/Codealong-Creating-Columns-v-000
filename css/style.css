@@ -139,3 +139,10 @@ section {
   width: 40px;
   z-index: 1;
 }
+
+#social {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: yellow;
+}
