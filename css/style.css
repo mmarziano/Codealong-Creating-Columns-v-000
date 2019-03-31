@@ -78,6 +78,10 @@ img, video, audio {
 }
 /* ----LAYOUT-----*/
 
+* {
+  box-sizing: ;
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
@@ -122,3 +126,4 @@ section {
   padding: 20px;
   margin-bottom: 20px;
 }
+
