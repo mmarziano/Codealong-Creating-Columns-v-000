@@ -92,7 +92,7 @@ img, video, audio {
 
 .col-2 {
   float: left;
-  margin: 66%;
+  width: 66%;
   background: #ccc;
 }
 
