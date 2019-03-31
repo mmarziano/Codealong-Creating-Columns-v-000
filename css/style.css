@@ -79,7 +79,7 @@ img, video, audio {
 /* ----LAYOUT-----*/
 
 * {
-  box-sizing: ;
+  box-sizing: border-box;
 }
 
 .wrapper {
